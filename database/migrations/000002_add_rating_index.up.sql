@@ -1,0 +1,1 @@
+CREATE INDEX idx_animes_rating ON animes(rating);
